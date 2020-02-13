@@ -11,7 +11,7 @@
 
 `$ npm start`
 
-## Access the micro-app channels:
+## Access the micro-app channels
 
 In the [ONEm developer portal](https://developer-portal.onem.zone/) go to your micro-app, choose "Web channel".  Add the corresponding javascript code to the `<body>` section of `/public/index.html`.
 

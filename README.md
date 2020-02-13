@@ -5,7 +5,7 @@
 3. Create a micro-app and set the callback url to `http://<PATH_TO_THIS_APP>/api`
 4. Set the `TOKEN_SECRET` environment variable to `87654321` in `.env`
 
-## Install
+## Install
 
 `$ npm install`
 

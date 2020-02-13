@@ -1,7 +1,0 @@
-section(auto-select=true)
-  header DONE
-  if todos && todos.length > 0
-    ul
-      each todo in todos
-        li
-          a(href='/view/'+todo.id) #{todo.taskDescription} #{todo.dueDate}
